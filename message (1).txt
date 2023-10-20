@@ -1,0 +1,156 @@
+Partículas e Textura:
+O miolo do pão francês é composto por pequenas partículas de amido e glúten. O amido é organizado em estruturas cristalinas, enquanto o glúten forma uma malha que dá elasticidade à massa. A textura é macia e esponjosa devido à presença dessas partículas e à maneira como são organizadas durante o processo de fermentação e cozimento.
+
+Cor e Formato:
+O pão francês tem uma cor dourada na crosta, resultante da reação de Maillard, que ocorre durante o cozimento a altas temperaturas. O miolo é geralmente branco ou ligeiramente amarelado. Quanto ao formato, o pão francês é tradicionalmente longo e cilíndrico, com cerca de 30 a 40 centímetros de comprimento e uma largura de cerca de 7 a 10 centímetros.
+
+Composição Química das Partículas:
+Amido (C6H10O5)n: O principal componente do amido, um polissacarídeo, é composto por unidades de glicose. É a principal fonte de carboidratos no pão.
+
+Glúten: Uma proteína composta por gliadina e glutenina, que são formadoras de redes, proporcionando elasticidade à massa. A fórmula química do glúten é complexa e envolve aminoácidos como prolina e glutamina.
+
+Ingredientes e Composição Química:
+Farinha de Trigo:
+
+"Amido (C6H10O5)n):
+
+Carbono (C): Prótons: 6, Nêutrons: Varia (média de aproximadamente 6), Elétrons: 6
+Hidrogênio (H): Prótons: 1, Nêutrons: 0 (em átomos comuns), Elétrons: 1
+Oxigênio (O): Prótons: 8, Nêutrons: 8, Elétrons: 8"
+
+"Glúten:
+estimado:
+Glutenina:VARIA (Prótons: Cerca de 1500, Nêutrons: Cerca de 1600, Elétrons: Cerca de 1500)
+Gliadina: VARIA (Prótons: Cerca de 1500, Nêutrons: Cerca de 1600, Elétrons: Cerca de 1500)
+Ácido glutâmico: C5H9NO4 (Prótons: 5, Nêutrons: Varia, Elétrons: 5)
+Prolina: C5H9NO2 (Prótons: 5, Nêutrons: Varia, Elétrons: 5)
+Glutamina: C5H10N2O3 (Prótons: 5, Nêutrons: Varia, Elétrons: 5)
+Leucina: C6H13NO2 (Prótons: 6, Nêutrons: Varia, Elétrons: 6)
+Alanina: C3H7NO2 (Prótons: 3, Nêutrons: Varia, Elétrons: 3)
+Valina: C5H11NO2 (Prótons: 5, Nêutrons: Varia, Elétrons: 5)
+Serina: C3H7NO3 (Prótons: 3, Nêutrons: Varia, Elétrons: 3)
+Fenilalanina: C9H11NO2 (Prótons: 9, Nêutrons: Varia, Elétrons: 9)
+Tirosina: C9H11NO3 (Prótons: 9, Nêutrons: Varia, Elétrons: 9)
+Histidina: C6H9N3O2 (Prótons: 6, Nêutrons: Varia, Elétrons: 6)
+Arginina: C6H14N4O2 (Prótons: 6, Nêutrons: Varia, Elétrons: 6)
+Cisteína: C3H7NO2S (Prótons: 3, Nêutrons: Varia, Elétrons: 3)
+Lisina: C6H14N2O2 (Prótons: 6, Nêutrons: Varia, Elétrons: 6)
+Metionina: C5H11NO2S (Prótons: 5, Nêutrons: Varia, Elétrons: 5)
+Triptofano: C11H12N2O2 (Prótons: 11, Nêutrons: Varia, Elétrons: 11)
+Aspartato: C4H7NO4 (Prótons: 4, Nêutrons: Varia, Elétrons: 4)
+Treonina: C4H9NO3 (Prótons: 4, Nêutrons: Varia, Elétrons: 4)
+Ácido Aspártico: C4H7NO4 (Prótons: 4, Nêutrons: Varia, Elétrons: 4)"
+
+"Água (H2O):
+
+Hidrogênio (H): Prótons: 1, Nêutrons: 0, Elétrons: 1
+Oxigênio (O): Prótons: 8, Nêutrons: 8, Elétrons: 8"
+
+"Outras proteínas( principalmente Albumina Globulina):
+Albumina Sérica: VARIA Prótons: Cerca de 5000, Nêutrons: Cerca de 5500, Elétrons: Cerca de 5000
+Imunoglobulina G: VARIA Prótons: Cerca de 28000, Nêutrons: Cerca de 29000, Elétrons: Cerca de 28000
+Imunoglobulina A: VARIA Prótons: Cerca de 28000, Nêutrons: Cerca de 29000, Elétrons: Cerca de 28000
+Imunoglobulina M: VARIA Prótons: Cerca de 28000, Nêutrons: Cerca de 29000, Elétrons: Cerca de 28000
+Fibronectina: VARIA Prótons: Cerca de 60000, Nêutrons: Cerca de 61000, Elétrons: Cerca de 60000
+Hemoglobina: VARIA Prótons: Cerca de 29000, Nêutrons: Cerca de 34000, Elétrons: Cerca de 29000
+Mioglobina: VARIA Prótons: Cerca de 11000, Nêutrons: Cerca de 12000, Elétrons: Cerca de 11000
+Actina: VARIA Prótons: Cerca de 22000, Nêutrons: Cerca de 23000, Elétrons: Cerca de 22000
+Tubulina: VARIA Prótons: Cerca de 22000, Nêutrons: Cerca de 23000, Elétrons: Cerca de 22000
+Fibrinogênio: VARIA Prótons: Cerca de 34000, Nêutrons: Cerca de 35000, Elétrons: Cerca de 34000
+Colágeno: VARIA Prótons: Cerca de 75000, Nêutrons: Cerca de 76000, Elétrons: Cerca de 75000
+Caseína: VARIA Prótons: Cerca de 19000, Nêutrons: Cerca de 20000, Elétrons: Cerca de 19000
+Elastina: VARIA Prótons: Cerca de 32000, Nêutrons: Cerca de 33000, Elétrons: Cerca de 32000
+Laminina: VARIA Prótons: Cerca de 80000, Nêutrons: Cerca de 81000, Elétrons: Cerca de 80000
+Colágeno Tipo IV: VARIA Prótons: Cerca de 75000, Nêutrons: Cerca de 76000, Elétrons: Cerca de 75000
+Queratina: VARIA Prótons: Cerca de 19000, Nêutrons: Cerca de 20000, Elétrons: Cerca de 19000
+Ceruloplasmina: VARIA Prótons: Cerca de 29000, Nêutrons: Cerca de 34000, Elétrons: Cerca de 29000
+Transferrina: VARIA Prótons: Cerca de 29000, Nêutrons: Cerca de 34000, Elétrons: Cerca de 29000
+Tropoelastina: VARIA Prótons: Cerca de 32000, Nêutrons: Cerca de 33000, Elétrons: Cerca de 32000
+Insulina: VARIA Prótons: Cerca de 15000, Nêutrons: Cerca de 16000, Elétrons: Cerca de 15000"
+
+
+"Minerais (como Cálcio e Ferro):
+
+Cálcio (Ca): Prótons: 20, Nêutrons: Varia (média de aproximadamente 20), Elétrons: 20
+Ferro (Fe): Prótons: 26, Nêutrons: Varia (média de aproximadamente 30), Elétrons: 26"
+
+"Sal (NaCl):
+
+Sódio (Na): Prótons: 11, Nêutrons: 12, Elétrons: 11
+Cloro (Cl): Prótons: 17, Nêutrons: 18, Elétrons: 17"
+
+Fermento:
+
+Leveduras (organismos vivos que fermentam o açúcar)
+Açúcar (sacarose ou glicose)
+Outros ingredientes adicionais podem incluir óleo, leite ou melhoradores de farinha.
+
+Durante o processo de fermentação, as leveduras consomem o açúcar presente na massa e produzem dióxido de carbono (CO2), que faz o pão crescer. Além disso, ocorrem reações químicas entre o amido e a água, formando açúcares simples, que contribuem para o sabor característico do pão.
+
+Modo de Preparo Científico:
+Mistura dos Ingredientes: Farinha de trigo, água, fermento, açúcar e sal são combinados para formar a massa.
+Fermentação: A massa é deixada para fermentar, permitindo que as leveduras consumam açúcares, liberando CO2 e fazendo a massa crescer.
+Modelagem: A massa é moldada em um formato cilíndrico e deixada para descansar.
+Cozimento: O pão é cozido em alta temperatura, desencadeando a reação de Maillard na crosta e permitindo que o CO2 expanda a massa, resultando na textura macia e na formação das bolhas internas.
+
+reações:
+
+"Hidratação do Amido:
+A água se combina com as moléculas de amido, que são polímeros de glicose. A hidratação causa a gelatinização do amido, onde as moléculas de amido absorvem água e se expandem, formando uma estrutura gelatinosa. Isso contribui para a maciez e textura do miolo do pão.
+
+Fermentação Alcoólica:
+As leveduras presentes na massa convertem os açúcares, como a glicose e a sacarose, em álcool etílico (etanol) e dióxido de carbono (CO2) através da fermentação. O CO2 forma bolhas na massa, fazendo o pão crescer. O etanol, embora em pequenas quantidades, pode contribuir para os aromas do pão.
+
+Fermentação Láctica:
+Outras bactérias presentes na massa fermentam os açúcares para produzir ácido lático. O ácido lático abaixa o pH da massa, contribuindo para a acidez do pão e influenciando seu sabor e textura.
+
+Reação de Maillard:
+Durante o cozimento a altas temperaturas, aminoácidos (as unidades constituintes das proteínas) e açúcares redutores reagem para formar uma ampla gama de compostos complexos. Essa reação é responsável pela cor dourada da crosta do pão e pelos sabores e aromas característicos.
+
+Caramelização dos Açúcares:
+A caramelização ocorre quando açúcares são aquecidos a altas temperaturas, resultando na quebra das moléculas de açúcar e formação de compostos aromáticos e pigmentos, contribuindo para a cor e sabor da crosta do pão.
+
+Gelatinização do Amido:
+Durante o cozimento, o amido absorve água e incha, formando uma rede gelatinosa. Isso ajuda a reter a água na estrutura do pão, mantendo-o úmido e macio.
+
+Desnaturação Proteica:
+Proteínas como gliadina e glutenina se desdobram devido ao calor, formando uma rede elástica que retém gases, permitindo que o pão cresça e mantendo sua estrutura.
+
+Ativação da Amilase:
+A amilase é uma enzima presente na farinha que quebra o amido em açúcares simples, como glicose e maltose. Esses açúcares são fermentados pelas leveduras, produzindo CO2 e etanol, resultando na expansão do pão.
+
+Ativação da Protease:
+A protease é uma enzima que quebra proteínas em aminoácidos e peptídeos. Isso não apenas afeta a textura do pão, mas também contribui para o desenvolvimento do sabor, pois os aminoácidos formam compostos aromáticos durante o cozimento.
+
+Formação de Ácidos Orgânicos:
+Além do ácido lático, outros ácidos orgânicos como o ácido acético são formados durante a fermentação, contribuindo para o sabor ácido característico do pão.
+
+Formação de Ácidos Graxos Voláteis:
+Durante o cozimento, ocorre a oxidação de ácidos graxos presentes na massa, formando ácidos graxos voláteis que conferem aroma ao pão.
+
+Reações de Cisteína e Tirosina:
+A cisteína e a tirosina, aminoácidos presentes nas proteínas, podem reagir entre si ou com açúcares, formando compostos que afetam a cor, textura e aroma do pão.
+
+Ação do Ácido Ascórbico:
+O ácido ascórbico (vitamina C) pode ser adicionado à massa como melhorador de farinha. Ele ajuda a fortalecer a rede de glúten, melhorando a textura e a capacidade de retenção de gases no pão.
+
+Formação de Compostos Fenólicos:
+Alguns compostos fenólicos presentes nos grãos de trigo podem contribuir para a cor e o sabor do pão, especialmente durante o processo de fermentação e cozimento.
+
+Ativação de Enzimas Lipolíticas:
+Enzimas lipolíticas podem quebrar lipídios em ácidos graxos livres, que contribuem para o sabor e aroma do pão.
+
+Formação de Compostos Aromáticos:
+Durante o cozimento, ocorre a formação de diversos compostos aromáticos, incluindo aldeídos, cetonas e ésteres. Esses compostos são responsáveis pelos aromas agradáveis e complexos do pão.
+
+Degradação de Aminoácidos:
+Aquecimento intenso leva à degradação de aminoácidos presentes nas proteínas, formando compostos como aminas e sulfetos. Estes contribuem para os aromas característicos do pão.
+
+Reações de Redução de Dissulfetos:
+As ligações dissulfeto presentes nas proteínas podem ser reduzidas durante o processo de cozimento. Essa redução pode afetar a estrutura da proteína, influenciando a textura do pão.
+
+Formação de Melanoidinas:
+Durante o cozimento, açúcares e aminoácidos reagem para formar melanoidinas, compostos de alto peso molecular que contribuem para a cor escura do pão e seu sabor único.
+
+Reações de Oxidação:
+Algumas gorduras presentes na massa podem sofrer oxidação durante o cozimento, resultando na formação de compostos como aldeídos e peróxidos. Esses compostos podem afetar tanto a textura quanto o sabor do pão."
